@@ -7,3 +7,4 @@ build
 bin
 xcuserdata/
 project.xcworkspace/
+moe.sdk.localbuild
